@@ -19,3 +19,7 @@ https://x.v50.lat/view.php?id=2af7a4f37670ea53https://suo.yt/yZddbYy
 https://4194.lktz.kdns.fr/f4cad396-babb-43a4-9fd4-1ab52be4f918//sub?target=clash
 https://node.freeclash.net/uploads/2026/06/0-20260624.yaml
 https://raw.githubusercontent.com/ovmvo/FreeSub/refs/heads/main/sub/permanent/mihomo.yaml
+https://raw.githubusercontent.com/zhuhaiuk/free-nodes/main/clash_config.yaml
+https://clashnodefree.com/sub/clash.yml
+https://raw.githubusercontent.com/zyzmzyz/free-nodes/master/Clash.yml
+
