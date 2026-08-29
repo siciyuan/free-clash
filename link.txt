@@ -22,4 +22,8 @@ https://raw.githubusercontent.com/ovmvo/FreeSub/refs/heads/main/sub/permanent/mi
 https://raw.githubusercontent.com/zhuhaiuk/free-nodes/main/clash_config.yaml
 https://clashnodefree.com/sub/clash.yml
 https://raw.githubusercontent.com/zyzmzyz/free-nodes/master/Clash.yml
-
+https://japanvpn.github.io/uploads/2026/08/0-20260828.yaml
+https://japanvpn.github.io/uploads/2026/08/1-20260828.yaml
+https://japanvpn.github.io/uploads/2026/08/2-20260828.yaml
+https://japanvpn.github.io/uploads/2026/08/3-20260828.yaml
+https://japanvpn.github.io/uploads/2026/08/4-20260828.yaml
